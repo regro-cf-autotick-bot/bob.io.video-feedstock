@@ -5,7 +5,7 @@ Home: http://github.com/bioidiap/bob.io.video
 
 Package license: Modified BSD License (3-clause)
 
-Feedstock license: BSD
+Feedstock license: BSD 3-Clause
 
 Summary: Video I/O support for Bob
 
