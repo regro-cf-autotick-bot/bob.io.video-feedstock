@@ -7,7 +7,7 @@ package:
 source:
   fn: bob.io.video-{{ version }}.zip
   md5: 630ce7f29d3524ed1b5840ebb07bc0e5
-  url: https://pypi.python.org/packages/source/b/bob.io.video/bob.io.video-{{ version }}.zip
+  url: https://pypi.io/packages/source/b/bob.io.video/bob.io.video-{{ version }}.zip
 
 build:
   entry_points:
