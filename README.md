@@ -11,6 +11,18 @@ Summary: Video I/O support for Bob
 
 
 
+Current build status
+====================
+
+Linux: [![Circle CI](https://circleci.com/gh/conda-forge/bob.io.video-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/bob.io.video-feedstock)
+OSX: [![TravisCI](https://travis-ci.org/conda-forge/bob.io.video-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/bob.io.video-feedstock)
+Windows: ![](https://cdn.rawgit.com/conda-forge/conda-smithy/90845bba35bec53edac7a16638aa4d77217a3713/conda_smithy/static/disabled.svg)
+
+Current release info
+====================
+Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/bob.io.video/badges/version.svg)](https://anaconda.org/conda-forge/bob.io.video)
+Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/bob.io.video/badges/downloads.svg)](https://anaconda.org/conda-forge/bob.io.video)
+
 Installing bob.io.video
 =======================
 
@@ -31,7 +43,6 @@ It is possible to list all of the versions of `bob.io.video` available on your p
 ```
 conda search bob.io.video --channel conda-forge
 ```
-
 
 
 About conda-forge
@@ -67,18 +78,6 @@ Terminology
 
 **conda-forge** - the place where the feedstock and smithy live and work to
                   produce the finished article (built conda distributions)
-
-Current build status
-====================
-
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/bob.io.video-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/bob.io.video-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/bob.io.video-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/bob.io.video-feedstock)
-Windows: ![](https://cdn.rawgit.com/conda-forge/conda-smithy/90845bba35bec53edac7a16638aa4d77217a3713/conda_smithy/static/disabled.svg)
-
-Current release info
-====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/bob.io.video/badges/version.svg)](https://anaconda.org/conda-forge/bob.io.video)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/bob.io.video/badges/downloads.svg)](https://anaconda.org/conda-forge/bob.io.video)
 
 
 Updating bob.io.video-feedstock
