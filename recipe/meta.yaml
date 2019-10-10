@@ -1,4 +1,4 @@
-{% set version = "2.0.12" %}
+{% set version = "3.0.0" %}
 
 package:
   name: bob.io.video
@@ -6,7 +6,7 @@ package:
 
 source:
   fn: bob.io.video-{{ version }}.zip
-  md5: 264cdb0a70eaffffd2b603dbc99fa7c7
+  md5: d5689dd1a16eedeb3fca620dba833d04
   url: https://pypi.io/packages/source/b/bob.io.video/bob.io.video-{{ version }}.zip
 
 build:
